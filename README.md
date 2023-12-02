@@ -1,2 +1,0 @@
-# jstutorial
-Learning js
